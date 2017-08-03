@@ -1,3 +1,6 @@
+## When do I post his shoes?
+	If he left his shoes at your house and he needs them.
+
 ## Should I post an issue?
 * If your issue is related to individual donations, payments or account support, please email support@familycraftmc.com instead of posting the issue here.
 * __Pro Tip!__ If you think you've found an exploit, don't post the issue here. Instead, private message a moderator on our Discord.
